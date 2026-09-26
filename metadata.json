@@ -1,0 +1,6 @@
+{
+  "name": "LandRecord PDF",
+  "description": "Professional print and Xerox-ready PDF export for family land records, plots, chain of ownership, and documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
